@@ -13,3 +13,4 @@ This app was designed to give users an elegant experience while creating a easy 
 
 ## Enjoy
 
+![workbit screen](/extra_proj/WorkBit.PNG)
